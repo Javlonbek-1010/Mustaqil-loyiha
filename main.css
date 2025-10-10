@@ -1,5 +1,6 @@
 *{
     font-family: sans-serif;
+    
 }
 .box{
     box-shadow: 5px 1.5px 6px;
@@ -34,6 +35,7 @@
     background-color: #0d6efd;
     border-radius: 5px;
     color: white;
+    transition:  0.5s
 }
 .white{
     padding: 15px 30px;
@@ -41,6 +43,7 @@
     background-color: white;
     border-radius: 5px;
     color: #0d6efd;
+    transition:0.5s
 }  
 .but{
     text-align: center;
@@ -62,4 +65,60 @@
 .let{
    margin-left: 1450px;
    gap: 10px;
+}
+.blue:hover{
+    background-color: #0d5bcf;
+
+}
+.white:hover{
+    background-color: #0d6efd;
+    color: white;
+    
+}
+.box2{
+    background-color: rgba(228, 228, 228, 0.336);
+    padding: 50px 0;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    
+}
+.me{
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.box3{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 3rem;
+    
+}
+
+.html{
+    background-color: white;
+    border-radius: 40px;
+    padding: 5px 10px;
+}
+.css{
+background-color: white;
+    border-radius: 40px;
+    padding: 5px 10px;
+}
+.ui{
+    background-color: white;
+    border-radius: 40px;
+    padding: 5px 10px;
+}
+.javascript{
+    background-color: white;
+    border-radius: 40px;
+    padding: 5px 10px;
+}
+.react{
+    background-color: white;
+    border-radius: 40px;
+    padding: 5px 10px;
+    
 }
