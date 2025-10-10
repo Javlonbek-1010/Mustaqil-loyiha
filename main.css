@@ -3,10 +3,11 @@
 }
 .box{
     box-shadow: 5px 1.5px 6px;
+    padding: 8px 0px;
     
 }
 .img{
-    margin: 0 750px;
+    margin: 0 810px;
     height: 300px;
     margin-top: 5rem;
     display: flex;
@@ -52,3 +53,13 @@
     color: rgb(204, 204, 204);
 }
 
+.nav{
+    font-weight: 800;
+}
+.Home{
+    font-weight: 790;
+}
+.let{
+   margin-left: 1450px;
+   gap: 10px;
+}
