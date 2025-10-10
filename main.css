@@ -8,12 +8,17 @@
     
 }
 .img{
-    margin: 0 810px;
+   
     height: 300px;
     margin-top: 5rem;
-    display: flex;
+    
     
 }
+.img2{
+    display: flex;
+    justify-content: center;
+}
+
 .hello{
     font-size: 50px;
     font-weight: 600;
@@ -63,8 +68,10 @@
     font-weight: 790;
 }
 .let{
-   margin-left: 1450px;
-   gap: 10px;
+   display: flex;
+   
+   justify-content: end;
+   margin-right: 30px;
 }
 .blue:hover{
     background-color: #0d5bcf;
